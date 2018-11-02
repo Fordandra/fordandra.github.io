@@ -1,6 +1,6 @@
-var form = document.getElementsByTagName("form")[0];
+var abduction = document.getElementsByTagName("abduction")[0];
 
-form.addEventListener("submit", function(e) {
+abduction.addEventListener("submit", function(e) {
 
   e.preventDefault();
 
