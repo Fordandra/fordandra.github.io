@@ -7,10 +7,10 @@ body {
     background-color: #ffffcc;
 }
 img {
-    border: 10px solid green;
+    border: 0px solid green;
 }
 h1 {
-    border: 5px dotted red;
+    border: 0px dotted red;
     color: white;
     background-color: black;
     text-align: center;
